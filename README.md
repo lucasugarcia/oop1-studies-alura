@@ -1,0 +1,1 @@
+Repositório contendo o projeto de estudo desenvolvido no curso "C#: aplicando a Orientação a Objetos", na Alura, dos instrutores Guilherme Lima e Daniel Portugal.
